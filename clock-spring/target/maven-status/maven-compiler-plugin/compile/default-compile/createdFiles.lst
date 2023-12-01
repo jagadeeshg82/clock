@@ -1,0 +1,7 @@
+com\example\clock\service\TimeConversionService.class
+com\example\clock\util\NumberToWordsConverter.class
+com\example\clock\model\TimeRequest.class
+com\example\clock\ClockSpringApplication.class
+com\example\clock\exception\UserInputFormatException.class
+com\example\clock\controller\ClockController.class
+com\example\clock\service\TimeConversionServiceImpl.class
